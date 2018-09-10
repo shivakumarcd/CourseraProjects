@@ -1,0 +1,32 @@
+Project no		Subparts and description				Score distribution	Concept it covers
+Ex1	****Linear regression with single variable and multiple variable ****Fitting a simple line to points on graph
+	Sub-parts:	Compute cost for one/multipls variable-Op		40 
+			Gradient descent for one/multiple variable-Op		50 		Feature normalization, Normal Equations (Op)
+---------------------------------------------------------------------------------------------------------------------------------
+Ex2	****Logistic regression(LR)	****Fitting line/curve/circular/closed irreggular curves - mostly convex IG
+	Sub-parts:	Cost/Gradient descent for LR				70
+			Cost/Gradient descent for regularised LR		30
+---------------------------------------------------------------------------------------------------------------------------------
+Ex3	****One Vs all LR **** NN to recognize handwritten digits
+	Sub-parts:	Regu. Logistic regre., 1Vsall training			70=30+20+20
+			NN prediction						30
+---------------------------------------------------------------------------------------------------------------------------------
+Ex4	Implementing Back propogation algo
+	Sub-parts:	Feedforward and Cost, Reg. Cost, Sigmoid		50
+			NN Gradient function(Backpropogation), 	Reg. gradient	40+10		Visulization of hidden units(Op)
+---------------------------------------------------------------------------------------------------------------------------------
+Ex5	****Implement Reg linear regression and ****study Bias/Varaince ****Learning curve
+	Subparts:	Regu. Linear regression cost/gradient, Learning curve	70=25+25+20
+			Polynomial feature mapping, Cross validation curve	30=10+20
+---------------------------------------------------------------------------------------------------------------------------------
+Ex 6	****SVM to build spam classifier 	****Gaussian Kernel with complex decision boundary
+	Sub-parts:	Gaussian Kernel, Parameter C and sigma			50=25+25
+			Email preprocessin/feature extraction			50=25+25
+---------------------------------------------------------------------------------------------------------------------------------
+Ex 7	****K-mean clustering algo and apply to compress image	****PCA to find low-dimentional representation of face images
+	Sub-parts:	Find closest Centroid, Compute Centroid mean 		-50
+			PCA, Project data, recover data				-50		PCA for visualization (Op)
+---------------------------------------------------------------------------------------------------------------------------------
+Ex8	****Anomaly detection to pre-detect failing server on network	****Recommender system- movie recommendation example
+	Sub parts:	Estimate Gaussian pars, Select threshold		30
+			Collborative filtering Cost/gradient			50		Regu. cost. Gradient with Reg		20
